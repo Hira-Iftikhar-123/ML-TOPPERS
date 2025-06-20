@@ -1,6 +1,3 @@
-Got it! Here's a clean, professional `README.md` without emojis or AI-detection language, using proper Markdown formatting and clear headings:
-
-```markdown
 # ML-TOPPERS: 9-Week AI & Machine Learning Bootcamp
 
 Welcome to **ML-TOPPERS**, a structured 9-week AI and machine learning learning repository designed to complement the  

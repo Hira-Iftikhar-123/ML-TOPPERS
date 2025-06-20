@@ -5,8 +5,6 @@ Welcome to **ML-TOPPERS**, a structured 9-week AI and machine learning learning 
 
 This repository contains weekly folders with well-organized homework tasks, coding exercises, and project files. Each week aligns with specific topics from the roadmap to build your data science and machine learning skills progressively.
 
----
-
 ## Weekly Breakdown
 
 | Week | Focus Area                             | Key Topics Covered                                    |
@@ -21,7 +19,6 @@ This repository contains weekly folders with well-organized homework tasks, codi
 | 8     | Advanced Deep Learning and NLP        | RNN, LSTM, Transfer Learning, Model Optimization      |
 | 9     | Final Projects and Portfolio Building | End-to-End ML Pipeline, Deployment                     |
 
----
 
 ## Repository Structure
 
@@ -39,8 +36,6 @@ ML-TOPPERS/
 
 ```
 
----
-
 ## Goals and Outcomes
 
 - Build strong foundations in Python, NumPy, and Pandas  
@@ -49,7 +44,6 @@ ML-TOPPERS/
 - Develop and document a complete machine learning project for your portfolio  
 - Engage with Kaggle competitions to apply and track your skills  
 
----
 
 ## Tools and Libraries
 
@@ -60,28 +54,20 @@ ML-TOPPERS/
 - SHAP, SMOTE  
 - Flask, Streamlit (for deployment)  
 
----
 
 ## Acknowledgements
 
 This repository follows the roadmap provided by the ML Community Summer Bootcamp (June–August 2025).  
 Thanks to the mentors and contributors who helped shape this learning path.
 
----
 
 ## Contribution
 
 Contributions and improvements are welcome. Please feel free to fork the repository, submit issues, and create pull requests.
 
----
 
 ## License
 
 Specify your license here (e.g., MIT License).
 
----
-
 Happy learning!
-```
-
-If you want, I can help you add sections for contributors, badges, or external profile links. Just let me know!

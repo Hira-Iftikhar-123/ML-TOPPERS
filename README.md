@@ -25,12 +25,12 @@ This repository contains weekly folders with well-organized homework tasks, codi
 ```
 
 ML-TOPPERS/
-├── Week1/
+├── week 1/
 │   └── task1.py
-├── Week2/
+├── week 2/
 │   └── eda\_homework.ipynb
 ├── ...
-├── Week9/
+├── week 9/
 │   └── final\_project/
 └── README.md
 
